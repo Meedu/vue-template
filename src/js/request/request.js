@@ -2,7 +2,7 @@ import {
     get,
     post,
     put
-} from 'http';
+} from './http';
 
 const Api = {
     Auth: {
